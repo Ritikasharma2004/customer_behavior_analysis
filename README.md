@@ -1,4 +1,5 @@
 📊 Data Analytics Project
+
 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading to building an interactive dashboard and presenting insights. The goal of the project is to analyze the dataset, identify meaningful patterns, and communicate insights using data visualization and reporting tools.
@@ -158,28 +159,6 @@ Analytical report
 
 Presentation (PPT) created using Gamma
 
-How to Run the Project
-1. Clone the Repository
-git clone https://github.com/yourusername/project-name.git
-2. Install Required Libraries
-pip install pandas numpy matplotlib seaborn
-3. Run the Notebook
-
-Open the Jupyter Notebook and execute the cells to perform:
-
-Data loading
-
-Data cleaning
-
-EDA
-
-4. Run SQL Queries
-
-Import the dataset into your SQL database (PostgreSQL/MySQL/SQL Server) and run the provided SQL scripts.
-
-5. Open Power BI Dashboard
-
-Open the .pbix file in Power BI Desktop to explore the dashboard.
 
 Conclusion
 
