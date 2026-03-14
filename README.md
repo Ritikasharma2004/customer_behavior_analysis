@@ -1,4 +1,4 @@
-#📊 Data Analytics Project
+📊 Data Analytics Project
 
 Overview
 
@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 
 The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation, and insight presentation.
 
-#Dataset
+Dataset
 
 The dataset used in this project contains structured data suitable for analytical exploration. It includes multiple attributes that allow analysis of trends, performance metrics, and patterns within the data.
 
